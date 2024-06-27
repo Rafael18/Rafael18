@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou estudando Analise e desenvolvimento de sistemas na faculdade Estácio.
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com .Net. 
+  - 🔭 Estou procurando emprego. Trabalhei nos últimos 5 anos como Analista de Sistemas e estou a procura de uma nova oportunidade como Desenvolvedor .Net. 
 </p>
 
 <!-- Dropdown -->
