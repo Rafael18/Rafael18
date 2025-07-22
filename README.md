@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou estudando Analise e desenvolvimento de sistemas na faculdade Estácio.
 
-  - 🔭 Estou procurando emprego. Trabalhei nos últimos 5 anos como Analista de Sistemas e estou a procura de uma nova oportunidade como Desenvolvedor .Net. 
+  - 🔭 Estou procurando emprego. Trabalhei nos últimos 5 anos como Analista de Testes e estou a procura de uma nova oportunidade como Analista de Testes Automatizados. Tenho conhecimentos avançados em HTML, CSS, Javascript e POO. 
 </p>
 
 <!-- Dropdown -->
